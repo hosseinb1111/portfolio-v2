@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hossein.my.id/sitemap.xml
